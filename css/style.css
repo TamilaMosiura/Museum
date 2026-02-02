@@ -100,18 +100,84 @@ footer {
 }
 
 .internal-tabs {
-        margin-top: 15px;
+    margin-top: 15px;
 
-        button {
-            font-size: 1.2em;
-            margin: 0 10px;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            background-color: rgba(255, 255, 255, 0.2);
-            color: #fff;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-            border: 2px solid rgba(255, 255, 255, 0.6);
+    button {
+        font-size: 1.2em;
+        margin: 0 10px;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        background-color: rgba(255, 255, 255, 0.2);
+        color: #fff;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        border: 2px solid rgba(255, 255, 255, 0.6);
+    }
+}
+
+.staff-member {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    margin: 1rem;
+    color: #fff;
+
+    .staff-info {
+        padding: 10px 0;
+        color: black;
+        padding-left: 2rem;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        max-width: 50%;
+        min-width: 50%;
+
+        h3 {
+            margin: 0;
+            font-size: 2em;
+        }
+
+         .staff-role {
+            width: fit-content;
+            background-color: rgba(255, 255, 255, 0.4);
+            backdrop-filter: blur(10px);
+            border-radius: 10px;
+            padding: 1rem;
+        }
+
+        .staff-block{
+            margin-top: 1rem;
+            font-size: 1em;
+
+            p {
+                color: #191919;
+            }
         }
     }
+
+    img {
+        margin: 2%;
+        width: 20vw;
+        height: 20vw;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+}
+
+.staff-member:nth-child(odd) {
+    flex-direction: row-reverse;
+}
+.staff-member:hover {
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+    background-color: rgba(255, 255, 255, 0.6);
+}
