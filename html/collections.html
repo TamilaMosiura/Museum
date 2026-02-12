@@ -25,15 +25,20 @@
     <div class="internal-tabs">
       <button onclick="showSection('archeology')">Archeology</button>
       <button onclick="showSection('anthropology')">Anthropology</button>
-      <button onclick="showSection('assemblages')">Assemblages</button>
       <button onclick="showSection('histories')">Histories</button>
     </div>
     <p class="warning">The content in this gallery was entirely created by Al under human direction. It was then curated, reviewed and edited by a human before being published. AI generated video and content may not be entirely accurate or representative of real-world artifacts.</p>
     <section id="archeology" class="collection-section" style="display:flex;"></section>
     <section id="anthropology" class="collection-section" style="display:none;"></section>
-    <section id="assemblages" class="collection-section" style="display:none;"></section>
     <section id="histories" class="collection-section" style="display:none;"></section>
   </section>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-content">
+      <button class="close-modal" aria-label="Close" onclick="closeModal()">x</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
 
   <footer>
     <p>This is a fictitious website created purely for academic purposes. All content is simulated, not real and generated with AI. </p>
