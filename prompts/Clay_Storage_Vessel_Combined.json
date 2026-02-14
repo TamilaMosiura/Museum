@@ -1,0 +1,33 @@
+{
+  "artifact": {
+    "catalogId": "clay-storage-vessel",
+    "name": "Clay Storage Vessel",
+    "material": "Hand-shaped fired clay",
+    "estimatedAge": "c. 6000 BCE, Neolithic Period",
+    "locationFound": "Early farming settlement site (exact coordinates unknown), household context",
+    "likelyPurpose": "Practical domestic vessel",
+    "physicalProperties": "Flat, oval slab; approx. 40–50 cm length; heavy; used with rounded hand stone",
+    "culturalContext": "Early urban domestic life; food preparation role, primarily by women",
+    "burialContext": "Household context",
+    "comparison": "Similar grinding slabs found in other Near Eastern Neolithic and Bronze Age sites",
+    "evidenceOfUse": "Polished worn surface, residue of ground grains, scratch patterns from repeated grinding",
+    "foundWith": "Basketry, ceramic bowls, grains, possibly other domestic implements",
+    "manufactureClues": "Shaped to flat surface with smoothing of top; consistent wear patterns indicate repeated use",
+    "preservationState": "Complete with wear marks on grinding surface",
+    "dimensions": "",
+    "confidence": ""
+  },
+  "agentB": {
+    "discipline": "Cultural Interpreter",
+    "credentials": "Public Engagement and Educational Programming",
+    "lens": "Head of Public Programs, responsible for developing educational initiatives, guided tours, and community events that highlight the museum's collections.",
+    "method": "An interactive exhibit concept that increased visitor engagement by 40%",
+    "purpose": "Aurelia Finch-Vo graduated with a degree in Museum Studies from the University of Toronto and has extensive experience in public history and cultural interpretation. She excels at translating complex archaeological findings into engaging narratives for diverse audiences. Aurelia is skilled in exhibit design, educational outreach, and community collaboration. She employs storytelling techniques, interactive displays, and multimedia presentations to bring the past to life. Known for her enthusiasm and creativity, Aurelia connects with visitors of all ages, making history accessible and exciting.",
+    "reflections": "",
+    "special": ""
+  },
+  "meta": {
+    "createdAt": "2026-02-14T19:18:48.416Z",
+    "source": "DEV109 Prompt-o-Rama v1"
+  }
+}

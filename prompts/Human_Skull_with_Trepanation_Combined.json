@@ -1,0 +1,33 @@
+{
+  "artifact": {
+    "catalogId": "trepanned-skull",
+    "name": "Human Skull with Trepanation",
+    "material": "Human bone",
+    "estimatedAge": "c. 500 BCE, Ancient Andean Civilization",
+    "locationFound": "Andean highlands archaeological site, burial context",
+    "likelyPurpose": "Surgical intervention or ceremonial practice",
+    "physicalProperties": "Adult cranial vault; approximately 22 cm long, 16 cm wide; partially healed circular trepanation holes",
+    "culturalContext": "Ancient Andean societies practicing cranial surgery for health or ritual reasons",
+    "burialContext": "Tomb burial",
+    "comparison": "Similar trepanned skulls found in other Andean archaeological sites",
+    "evidenceOfUse": "\"Medical or ritual cranial modification",
+    "foundWith": "Other human remains, ceramics, stone tools",
+    "manufactureClues": "Circular trepanation marks made with stone tools",
+    "preservationState": "Partial skull; healed bone edges preserved",
+    "dimensions": "",
+    "confidence": ""
+  },
+  "agentB": {
+    "discipline": "Cultural Interpreter",
+    "credentials": "Public Engagement and Educational Programming",
+    "lens": "Head of Public Programs, responsible for developing educational initiatives, guided tours, and community events that highlight the museum's collections.",
+    "method": "An interactive exhibit concept that increased visitor engagement by 40%",
+    "purpose": "Aurelia Finch-Vo graduated with a degree in Museum Studies from the University of Toronto and has extensive experience in public history and cultural interpretation. She excels at translating complex archaeological findings into engaging narratives for diverse audiences. Aurelia is skilled in exhibit design, educational outreach, and community collaboration. She employs storytelling techniques, interactive displays, and multimedia presentations to bring the past to life. Known for her enthusiasm and creativity, Aurelia connects with visitors of all ages, making history accessible and exciting.",
+    "reflections": "",
+    "special": ""
+  },
+  "meta": {
+    "createdAt": "2026-02-14T19:25:40.113Z",
+    "source": "DEV109 Prompt-o-Rama v1"
+  }
+}

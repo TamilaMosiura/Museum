@@ -1,0 +1,33 @@
+{
+  "artifact": {
+    "catalogId": "burial-shroud-fragment",
+    "name": "Burial Shroud Fragment",
+    "material": "Linen textile with natural dyes",
+    "estimatedAge": "c. 1200 BCE, Ancient Egypt",
+    "locationFound": "Egyptian tomb, burial context",
+    "likelyPurpose": "Ceremonial and protective funerary textile",
+    "physicalProperties": "Small rectangular fragment; approx. 30 cm x 20 cm; thin woven fabric",
+    "culturalContext": "Egyptian funerary practices and textile production",
+    "burialContext": "Tomb",
+    "comparison": "Comparable to other Egyptian burial textiles from New Kingdom tombs",
+    "evidenceOfUse": "Staining from organic matter, wear consistent with burial wrapping",
+    "foundWith": "Mummified remains, amulets, burial goods",
+    "manufactureClues": "Woven linen with dyed patterns, hand-loomed",
+    "preservationState": "Fragmented, minor fraying at edges",
+    "dimensions": "",
+    "confidence": ""
+  },
+  "agentB": {
+    "discipline": "Cultural Interpreter",
+    "credentials": "Public Engagement and Educational Programming",
+    "lens": "Head of Public Programs, responsible for developing educational initiatives, guided tours, and community events that highlight the museum's collections.",
+    "method": "An interactive exhibit concept that increased visitor engagement by 40%",
+    "purpose": "Aurelia Finch-Vo graduated with a degree in Museum Studies from the University of Toronto and has extensive experience in public history and cultural interpretation. She excels at translating complex archaeological findings into engaging narratives for diverse audiences. Aurelia is skilled in exhibit design, educational outreach, and community collaboration. She employs storytelling techniques, interactive displays, and multimedia presentations to bring the past to life. Known for her enthusiasm and creativity, Aurelia connects with visitors of all ages, making history accessible and exciting.",
+    "reflections": "",
+    "special": ""
+  },
+  "meta": {
+    "createdAt": "2026-02-14T19:33:03.077Z",
+    "source": "DEV109 Prompt-o-Rama v1"
+  }
+}
